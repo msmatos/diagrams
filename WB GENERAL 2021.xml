@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-24T18:44:01.543Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36" etag="vpdqXFP3UEzLSlEyfFOB" version="13.7.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-26T01:43:30.619Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36" etag="1LfWuWYm5Y-xIDZRApdc" version="13.7.6" type="github">
   <diagram id="cddfa51f-0aea-6d7a-c73c-8949f099de00" name="Page-1">
     <mxGraphModel dx="2591" dy="1536" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#FFFFFF" math="0" shadow="0">
       <root>
@@ -22,26 +22,26 @@
         <mxCell id="11" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; cellpadding=&quot;4&quot; style=&quot;width: 100% ; height: 100% ; border-collapse: collapse&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th align=&quot;center&quot;&gt;A/C SELECTION PAGE&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;&lt;u&gt;FUNCTIONS&lt;/u&gt;&lt;br&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left&quot;&gt;SELECT A/C&lt;br&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;REGISTER NEW A/C&lt;br&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;DELETE EXISTING A/C&lt;/li&gt;&lt;/ul&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;&lt;u&gt;OUTPUTS&lt;/u&gt;&lt;br&gt;ACTION: SELECTION&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;strokeColor=none;fillColor=none;overflow=fill;" parent="1" vertex="1">
           <mxGeometry x="-930" y="-715" width="210" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="19" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; cellpadding=&quot;4&quot; style=&quot;width: 100% ; height: 100% ; border-collapse: collapse&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th align=&quot;center&quot;&gt;REGISTER NEW A/C PAGE&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;&lt;u&gt;FUNCTIONS&lt;/u&gt;&lt;br&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left&quot;&gt;A/C ID DATA&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;A/C WB DATA&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;A/C CONFIG DATA&lt;/li&gt;&lt;/ul&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;&lt;u&gt;OUTPUTS&lt;/u&gt;&lt;br&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;text-align: left&quot;&gt;ACTION: CREATE AND&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;text-align: left&quot;&gt;RECORD A/C REGISTER&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;text-align: left&quot;&gt;ACTION: FEED THE MISSION A/C&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;text-align: left&quot;&gt;CONFIGURATION&lt;/span&gt;&lt;/div&gt;&lt;u&gt;INPUTS&lt;/u&gt;&lt;br&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;text-align: left&quot;&gt;BEW FROM WEIGHING CHART&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;text-align: left&quot;&gt;A/C INTERIOR CONFIGURATION&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;strokeColor=none;fillColor=none;overflow=fill;" parent="1" vertex="1">
+        <mxCell id="19" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; cellpadding=&quot;4&quot; style=&quot;width: 100% ; height: 100% ; border-collapse: collapse&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th align=&quot;center&quot;&gt;REGISTER NEW A/C PAGE&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;&lt;u&gt;FUNCTIONS&lt;/u&gt;&lt;br&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left&quot;&gt;A/C ID DATA&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;A/C WB DATA&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;A/C CONFIG DATA&lt;/li&gt;&lt;/ul&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;&lt;u&gt;OUTPUTS&lt;/u&gt;&lt;br&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;text-align: left&quot;&gt;ACTION: CREATE AND&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;text-align: left&quot;&gt;RECORD A/C REGISTER&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;text-align: left&quot;&gt;ACTION: FEED THE MISSION A/C&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;text-align: left&quot;&gt;CONFIGURATION&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;DATA: BEW PER A/C ID&lt;/div&gt;&lt;u&gt;INPUTS&lt;/u&gt;&lt;br&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;text-align: left&quot;&gt;BEW FROM WEIGHING CHART&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;BEW CG FROM WEIGHING CHART&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;text-align: left&quot;&gt;A/C INTERIOR CONFIGURATION&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;strokeColor=none;fillColor=none;overflow=fill;" parent="1" vertex="1">
           <mxGeometry x="-689" y="-715" width="210" height="290" as="geometry" />
         </mxCell>
         <mxCell id="15" value="Glossary&lt;div style=&quot;text-align: left&quot;&gt;A/C - AIRCRAFT&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;TO/LD - TAKE OFF AND LANDING&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="-1149" y="-432" width="209" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="0FHSD0VGPYpHlUlF6Z4R-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="29" target="52">
+        <mxCell id="0FHSD0VGPYpHlUlF6Z4R-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="29" target="0FHSD0VGPYpHlUlF6Z4R-68">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="29" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; cellpadding=&quot;4&quot; style=&quot;width: 100% ; height: 100% ; border-collapse: collapse&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th align=&quot;center&quot;&gt;BOW COMPOSITION PAGE&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;&lt;u&gt;FUNCTIONS&lt;/u&gt;&lt;br&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left&quot;&gt;A/C ID DATA&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;A/C WB DATA&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;A/C CONFIG DATA&lt;/li&gt;&lt;/ul&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;&lt;u&gt;OUTPUTS&lt;/u&gt;&lt;br&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;text-align: left&quot;&gt;ACTION: CREATE AND&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;text-align: left&quot;&gt;RECORD A/C REGISTER&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;text-align: left&quot;&gt;ACTION: FEED THE MISSION A/C&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;text-align: left&quot;&gt;CONFIGURATION&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;span style=&quot;text-align: left&quot;&gt;&lt;u&gt;INPUTS&lt;/u&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;text-align: left&quot;&gt;CREW COUNTING AND WEIGHT,&lt;br&gt;CATERING, CREW LUGGAGE/&lt;br&gt;EQUIPMENT&lt;/span&gt;&lt;/div&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;strokeColor=none;fillColor=none;overflow=fill;" parent="1" vertex="1">
-          <mxGeometry x="-424" y="-640" width="210" height="263" as="geometry" />
+        <mxCell id="0FHSD0VGPYpHlUlF6Z4R-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="29" target="42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="29" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; cellpadding=&quot;4&quot; style=&quot;width: 100% ; height: 100% ; border-collapse: collapse&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th align=&quot;center&quot;&gt;BOW COMPOSITION PAGE&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;&lt;u&gt;FUNCTIONS&lt;/u&gt;&lt;br&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left&quot;&gt;A/C ID DATA&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;A/C WB DATA&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;A/C CONFIG DATA&lt;/li&gt;&lt;/ul&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;&lt;u&gt;OUTPUTS&lt;/u&gt;&lt;br&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;text-align: left&quot;&gt;ACTION: COMPUTE AND&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;text-align: left&quot;&gt;RECORD A/C BOW&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;text-align: left&quot;&gt;ACTION: FEED THE OEW (MISSION&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;text-align: left&quot;&gt;PAGE)&lt;br&gt;DATA: BOW&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;span style=&quot;text-align: left&quot;&gt;&lt;u&gt;INPUTS&lt;/u&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;text-align: left&quot;&gt;CREW COUNTING AND WEIGHT,&lt;br&gt;CATERING, CREW LUGGAGE/&lt;br&gt;EQUIPMENT&lt;/span&gt;&lt;/div&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;strokeColor=none;fillColor=none;overflow=fill;" parent="1" vertex="1">
+          <mxGeometry x="-424" y="-654" width="210" height="294" as="geometry" />
         </mxCell>
         <mxCell id="31" value="&lt;div style=&quot;text-align: center&quot;&gt;RETRIEVE A/C&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;align=center;" parent="1" vertex="1">
-          <mxGeometry x="-877.5" y="-425" width="105" height="63" as="geometry" />
+          <mxGeometry x="-877.5" y="-350" width="105" height="63" as="geometry" />
         </mxCell>
         <mxCell id="32" value="&lt;div style=&quot;text-align: center&quot;&gt;DELETE A/C&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;align=center;" parent="1" vertex="1">
-          <mxGeometry x="-877.5" y="-330" width="105" height="63" as="geometry" />
-        </mxCell>
-        <mxCell id="33" value="Confirm?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="-424" y="-172" width="60" height="60" as="geometry" />
+          <mxGeometry x="-897" y="-210" width="105" height="63" as="geometry" />
         </mxCell>
         <mxCell id="39" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" parent="1" source="11" target="19" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -49,11 +49,13 @@
             <mxPoint x="-675" y="-665" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="41" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;exitX=1;exitY=0.5;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="31" target="29" edge="1">
+        <mxCell id="41" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;exitX=1;exitY=0.5;exitPerimeter=0;" parent="1" source="31" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-315" y="-285" as="sourcePoint" />
-            <mxPoint x="-265" y="-335" as="targetPoint" />
+            <mxPoint x="-430" y="-410" as="targetPoint" />
             <Array as="points">
+              <mxPoint x="-580" y="-340" />
+              <mxPoint x="-319" y="-350" />
               <mxPoint x="-500" y="-330" />
               <mxPoint x="-450" y="-350" />
               <mxPoint x="-310" y="-380" />
@@ -61,19 +63,17 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="42" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; cellpadding=&quot;4&quot; style=&quot;width: 100% ; height: 100% ; border-collapse: collapse&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th align=&quot;center&quot;&gt;FUEL CONFIGURATION PAGE&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;&lt;u&gt;FUNCTIONS&lt;/u&gt;&lt;br&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left&quot;&gt;A/C TANKS ARRANGEMENT&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;A/C FUEL QTY PER TANK&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;A/C MISSION FUEL&lt;/li&gt;&lt;/ul&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;&lt;u&gt;OUTPUTS&lt;/u&gt;&lt;br&gt;ACTION: CREATE AND &lt;br&gt;RECORD A/C FUEL QTY TO/LD&lt;br&gt;ACTION: FEED THE MISSION A/C&lt;br&gt;CONFIGURATION&lt;br&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;strokeColor=none;fillColor=none;overflow=fill;" parent="1" vertex="1">
-          <mxGeometry x="80" y="-362" width="220" height="235" as="geometry" />
+        <mxCell id="42" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; cellpadding=&quot;4&quot; style=&quot;width: 100% ; height: 100% ; border-collapse: collapse&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th align=&quot;center&quot;&gt;FUEL TANKS PAGE&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;&lt;u&gt;FUNCTIONS&lt;/u&gt;&lt;br&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left&quot;&gt;A/C TANKS ARRANGEMENT&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;A/C FUEL QTY PER TANK&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;A/C MISSION FUEL&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;CHECK FUEL QTY LIMITS&lt;/li&gt;&lt;/ul&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;u&gt;OUTPUTS&lt;/u&gt;&lt;/div&gt;ACTION: COMPUTE AND &lt;br&gt;RECORD A/C FUEL QTY TO/LD&lt;br&gt;ACTION: FEED THE A/C GROSS&lt;br&gt;WEIGHT&lt;br&gt;DATA: TOTAL FUEL WEIGHT AND&lt;br&gt;CG&lt;br&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;strokeColor=none;fillColor=none;overflow=fill;" parent="1" vertex="1">
+          <mxGeometry x="420" y="-654" width="220" height="254" as="geometry" />
         </mxCell>
-        <mxCell id="45" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; cellpadding=&quot;4&quot; style=&quot;width: 100% ; height: 100% ; border-collapse: collapse&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th align=&quot;center&quot;&gt;CORE COMPUTATION&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;&lt;u&gt;FUNCTIONS&lt;/u&gt;&lt;br&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left&quot;&gt;TOTAL WEIGHT SUMMATION&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;FINAL CG COMPUTATION&lt;/li&gt;&lt;/ul&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;&lt;u&gt;OUTPUTS&lt;/u&gt;&lt;br&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;text-align: left&quot;&gt;TOTAL WEIGHT (TO/LD)&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;text-align: left&quot;&gt;FINAL CG (TO/LD)&lt;/span&gt;&lt;/div&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;strokeColor=none;fillColor=#dae8fc;overflow=fill;" parent="1" vertex="1">
-          <mxGeometry x="-700" y="-267" width="220" height="235" as="geometry" />
+        <mxCell id="0FHSD0VGPYpHlUlF6Z4R-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="45" target="56">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=0.9;exitY=0.5;exitPerimeter=0;entryX=0;entryY=0.3;jettySize=auto;orthogonalLoop=1;" parent="1" source="47" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-1049" y="-719" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="45" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; cellpadding=&quot;4&quot; style=&quot;width: 100% ; height: 100% ; border-collapse: collapse&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th align=&quot;center&quot;&gt;COMPUTATION LAYER&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;&lt;u&gt;FUNCTIONS&lt;/u&gt;&lt;br&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left&quot;&gt;TOTAL WEIGHT SUMMATION&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;FINAL CG COMPUTATION&lt;/li&gt;&lt;/ul&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;&lt;u&gt;OUTPUTS&lt;/u&gt;&lt;br&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;text-align: left&quot;&gt;CURRENT DESIGN WEIGHTS (TO/LD)&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;text-align: left&quot;&gt;CURRENT CG (TO/LD)&lt;br&gt;GRAPHICAL CG_WEIGHT ENVELOPE&lt;/span&gt;&lt;/div&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;strokeColor=none;fillColor=#dae8fc;overflow=fill;" parent="1" vertex="1">
+          <mxGeometry x="-374" y="-310" width="234" height="250" as="geometry" />
         </mxCell>
         <mxCell id="47" value="user" style="shape=actor;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="-680" y="-827" width="40" height="60" as="geometry" />
+          <mxGeometry x="-1120" y="-710" width="40" height="60" as="geometry" />
         </mxCell>
         <mxCell id="51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=1;exitY=0.25;entryX=1;entryY=0.25;jettySize=auto;orthogonalLoop=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -81,20 +81,75 @@
             <mxPoint x="-929" y="-722" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0FHSD0VGPYpHlUlF6Z4R-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="52" target="0FHSD0VGPYpHlUlF6Z4R-68">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="52" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; cellpadding=&quot;4&quot; style=&quot;width: 100% ; height: 100% ; border-collapse: collapse&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th align=&quot;center&quot;&gt;MISSION CONFIGURATION PAGE&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;&lt;u&gt;FUNCTIONS&lt;/u&gt;&lt;br&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left&quot;&gt;A/C INTERIOR CONFIG&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;A/C EQUIPMENT CONFIG&lt;/li&gt;&lt;/ul&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;&lt;u&gt;OUTPUTS&lt;/u&gt;&lt;br&gt;ACTION: CREATE AND &lt;br&gt;RECORD A/C REGISTER&lt;br&gt;ACTION: FEED THE MISSION A/C&lt;br&gt;CONFIGURATION&lt;br&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;strokeColor=none;fillColor=none;overflow=fill;" parent="1" vertex="1">
-          <mxGeometry x="-170" y="-640" width="220" height="235" as="geometry" />
+        <mxCell id="52" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; cellpadding=&quot;4&quot; style=&quot;width: 100% ; height: 100% ; border-collapse: collapse&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th align=&quot;center&quot;&gt;MISSION CONFIGURATION PAGE&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;&lt;u&gt;FUNCTIONS&lt;/u&gt;&lt;br&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left&quot;&gt;A/C INTERIOR CONFIG&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;A/C EQUIPMENT CONFIG&lt;/li&gt;&lt;/ul&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;u&gt;OUTPUTS&lt;/u&gt;&lt;/div&gt;ACTION: CREATE AND &lt;br&gt;RECORD MISSION OEW&lt;br&gt;ACTION: IT FEEDS THE MISSION&lt;br&gt;GROSS WEIGHT&lt;br&gt;DATA: OEW&lt;br&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;span&gt;&lt;u&gt;INPUTS&lt;/u&gt;&lt;/span&gt;&lt;/div&gt;&lt;ul&gt;&lt;li&gt;INTERIOR ARRANGEMENT LIST&lt;/li&gt;&lt;li&gt;MISSION ITEMS LIST&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;strokeColor=none;fillColor=none;overflow=fill;" parent="1" vertex="1">
+          <mxGeometry x="-146" y="-654" width="236" height="274" as="geometry" />
         </mxCell>
         <mxCell id="56" value="CLEARANCE&lt;div&gt;FORM&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="-74" y="-130" width="80" height="100" as="geometry" />
+          <mxGeometry x="-40" y="-190" width="80" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="0FHSD0VGPYpHlUlF6Z4R-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="0FHSD0VGPYpHlUlF6Z4R-68" target="42">
+        <mxCell id="0FHSD0VGPYpHlUlF6Z4R-68" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; cellpadding=&quot;4&quot; style=&quot;width: 100% ; height: 100% ; border-collapse: collapse&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th align=&quot;center&quot;&gt;PAYLOAD PAGE&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;&lt;u&gt;FUNCTIONS&lt;/u&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left&quot;&gt;CARGO LAYOUT (LOPA)&amp;nbsp;&lt;br&gt;SELECTION&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;PAYLOADS SET UP&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;CHECK ZERO FUEL LIMIT&lt;/li&gt;&lt;/ul&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;u&gt;OUTPUTS&lt;/u&gt;&lt;/div&gt;ACTION: COMPUTE AND RECORD &lt;br&gt;TOTAL WEIGHT AND CG &lt;br&gt;OF PAYLOAD&amp;nbsp;&lt;br&gt;ACTION: IT FEEDS THE MISSION&lt;br&gt;GROSS WEIGHT&lt;br&gt;DATA: PAYLOAD TOTAL WEIGHT AND&lt;br&gt;CG&lt;br&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;strokeColor=none;fillColor=none;overflow=fill;" vertex="1" parent="1">
+          <mxGeometry x="137" y="-654" width="223" height="264" as="geometry" />
+        </mxCell>
+        <mxCell id="0FHSD0VGPYpHlUlF6Z4R-71" value="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/music-ui-solid-24px/24/repeat_replay_arrow_loop_cycle-2-128.png" vertex="1" parent="1">
+          <mxGeometry x="-200" y="-540" width="46" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="0FHSD0VGPYpHlUlF6Z4R-74" value="2" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/music-ui-solid-24px/24/repeat_replay_arrow_loop_cycle-2-128.png" vertex="1" parent="1">
+          <mxGeometry x="227" y="-388" width="46" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="0FHSD0VGPYpHlUlF6Z4R-75" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; cellpadding=&quot;4&quot; style=&quot;width: 100% ; height: 100% ; border-collapse: collapse&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th align=&quot;center&quot;&gt;AUXILIARY TOOLS&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;&lt;u&gt;FUNCTIONS&lt;/u&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left&quot;&gt;CHS TOOLS&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;CHECK FLOOR CAP. (WB)&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;HAZMAT COMPATIBILITY&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;JETTISON ENVELOPE&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;TARGET CG&lt;br&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;u&gt;OUTPUTS&lt;/u&gt;&lt;/div&gt;DATA: GO/NO_GO&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;strokeColor=none;fillColor=none;overflow=fill;" vertex="1" parent="1">
+          <mxGeometry x="150" y="-320" width="220" height="235" as="geometry" />
+        </mxCell>
+        <mxCell id="0FHSD0VGPYpHlUlF6Z4R-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.019;entryY=0.617;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="0FHSD0VGPYpHlUlF6Z4R-77" target="11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1040" y="-604" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0FHSD0VGPYpHlUlF6Z4R-77" value="LOGIN" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1160" y="-635" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0FHSD0VGPYpHlUlF6Z4R-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="47" target="0FHSD0VGPYpHlUlF6Z4R-77">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0FHSD0VGPYpHlUlF6Z4R-68" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; cellpadding=&quot;4&quot; style=&quot;width: 100% ; height: 100% ; border-collapse: collapse&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th align=&quot;center&quot;&gt;PAYLOAD CONFIGURATION PAGE&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;&lt;u&gt;FUNCTIONS&lt;/u&gt;&lt;br&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left&quot;&gt;A/C INTERIOR CONFIG&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;A/C EQUIPMENT CONFIG&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;A/C PAX&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;A/C PAYLOADS&lt;/li&gt;&lt;/ul&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;&lt;u&gt;OUTPUTS&lt;/u&gt;&lt;br&gt;ACTION: CREATE AND &lt;br&gt;RECORD A/C REGISTER&lt;br&gt;ACTION: FEED THE MISSION A/C&lt;br&gt;CONFIGURATION&lt;br&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;strokeColor=none;fillColor=none;overflow=fill;" vertex="1" parent="1">
-          <mxGeometry x="80" y="-640" width="220" height="235" as="geometry" />
+        <mxCell id="0FHSD0VGPYpHlUlF6Z4R-86" value="Table" style="shape=table;html=1;whiteSpace=wrap;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fontStyle=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="480" y="-297" width="180" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="0FHSD0VGPYpHlUlF6Z4R-87" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="0FHSD0VGPYpHlUlF6Z4R-86">
+          <mxGeometry y="30" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0FHSD0VGPYpHlUlF6Z4R-88" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="0FHSD0VGPYpHlUlF6Z4R-87">
+          <mxGeometry width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0FHSD0VGPYpHlUlF6Z4R-89" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="0FHSD0VGPYpHlUlF6Z4R-87">
+          <mxGeometry x="60" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0FHSD0VGPYpHlUlF6Z4R-90" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="0FHSD0VGPYpHlUlF6Z4R-87">
+          <mxGeometry x="120" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0FHSD0VGPYpHlUlF6Z4R-91" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="0FHSD0VGPYpHlUlF6Z4R-86">
+          <mxGeometry y="70" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0FHSD0VGPYpHlUlF6Z4R-92" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="0FHSD0VGPYpHlUlF6Z4R-91">
+          <mxGeometry width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0FHSD0VGPYpHlUlF6Z4R-93" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="0FHSD0VGPYpHlUlF6Z4R-91">
+          <mxGeometry x="60" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0FHSD0VGPYpHlUlF6Z4R-94" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="0FHSD0VGPYpHlUlF6Z4R-91">
+          <mxGeometry x="120" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0FHSD0VGPYpHlUlF6Z4R-95" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="0FHSD0VGPYpHlUlF6Z4R-86">
+          <mxGeometry y="110" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0FHSD0VGPYpHlUlF6Z4R-96" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="0FHSD0VGPYpHlUlF6Z4R-95">
+          <mxGeometry width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0FHSD0VGPYpHlUlF6Z4R-97" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="0FHSD0VGPYpHlUlF6Z4R-95">
+          <mxGeometry x="60" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0FHSD0VGPYpHlUlF6Z4R-98" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="0FHSD0VGPYpHlUlF6Z4R-95">
+          <mxGeometry x="120" width="60" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
