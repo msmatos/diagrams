@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-02T16:48:24.617Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="H76fcnxb-pqL6zgy-ETG" version="14.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-02T20:16:09.320Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="82oS6qGO5nFhIuY4t23L" version="14.4.3" type="github">
   <diagram id="zNYKwzeYJlgeWxAAmG42" name="Page-1">
     <mxGraphModel dx="654" dy="1555" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -105,8 +105,32 @@
         <mxCell id="AsTVMmRhvtfGat-J_vea-40" value="ULD" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="-60" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="AsTVMmRhvtfGat-J_vea-43" value="CB ARM" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+        <mxCell id="AsTVMmRhvtfGat-J_vea-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="1" source="AsTVMmRhvtfGat-J_vea-43" target="AsTVMmRhvtfGat-J_vea-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AsTVMmRhvtfGat-J_vea-43" value="CB ARM&lt;br&gt;(FS)" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="45" y="290" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AsTVMmRhvtfGat-J_vea-45" value="CB - CENTER OF BALANCE&lt;br&gt;FS - FRAME STATION" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="500" width="190" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="AsTVMmRhvtfGat-J_vea-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="1" source="AsTVMmRhvtfGat-J_vea-48" target="AsTVMmRhvtfGat-J_vea-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AsTVMmRhvtfGat-J_vea-48" value="COUPLED&lt;br&gt;(MARRIED)" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="45" y="350" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AsTVMmRhvtfGat-J_vea-52" value="# COUPLED" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="205" y="355" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="AsTVMmRhvtfGat-J_vea-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="1" source="AsTVMmRhvtfGat-J_vea-56" target="AsTVMmRhvtfGat-J_vea-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AsTVMmRhvtfGat-J_vea-56" value="INPUT&lt;br&gt;WIDTH" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontColor=#000000;align=center;" vertex="1" parent="1">
+          <mxGeometry x="525" y="285" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AsTVMmRhvtfGat-J_vea-55" value="INPUT&lt;br&gt;LENGTH" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontColor=#000000;align=center;" vertex="1" parent="1">
+          <mxGeometry x="525" y="245" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
